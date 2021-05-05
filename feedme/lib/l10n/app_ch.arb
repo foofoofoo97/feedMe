@@ -1,0 +1,8 @@
+{
+      "order":"订单",
+      "menu": "菜单",
+      "inventory":"库存",
+      "transaction":"交易",
+      "report":"报告",
+      "setting": "设置"
+}

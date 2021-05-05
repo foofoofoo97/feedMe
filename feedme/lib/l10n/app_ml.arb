@@ -1,0 +1,8 @@
+{
+      "order":"Pesanan",
+      "menu": "Menu",
+      "inventory":"Persediaan",
+      "transaction":"Transaksi",
+      "report":"Laporan",
+      "setting": "Tetapan"
+}
