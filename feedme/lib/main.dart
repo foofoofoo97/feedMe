@@ -12,7 +12,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String _locale = 'en';
+  String _locale = 'ch';
 
   void changeToCN() {
     setState(() {
